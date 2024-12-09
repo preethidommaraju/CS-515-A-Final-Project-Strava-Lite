@@ -1,6 +1,12 @@
-A link to your Github repository! example (https://github.com/roccopolimen/nextround)
-NOTE: if you do not provide this, you will get a ZERO in the above section GitHub, along with a 2-point deduction in this section.
-Your name and stevens email
-The title of the project (name it whatever you want, "Strava Lite" is fine)
-A brief description of what the project does
-A section on any bugs or issues you faced while working on this project and how you overcame the issues
+# Strava lite
+A simple Flask-based REST API that allows users to register, retrieve, and remove.
+
+# github repo
+https://github.com/mudenithinnaik/CS-515-A-Final-Project-Strava-Lite
+
+# Author
+Preethi dommaraju
+pdommara@stevens.edu
+
+## Bugs & Issues
+- Ran into a 404 error when a user didn’t exist; overcame this by checking if user ID was in data store before processing requests.
