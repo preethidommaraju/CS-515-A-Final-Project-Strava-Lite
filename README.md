@@ -2,7 +2,7 @@
 A simple Flask-based REST API that allows users to register, retrieve, and remove.
 
 # github repo
-https://github.com/mudenithinnaik/CS-515-A-Final-Project-Strava-Lite
+https://github.com/preethidommaraju/CS-515-A-Final-Project-Strava-Lite/
 
 # Author
 Preethi dommaraju
