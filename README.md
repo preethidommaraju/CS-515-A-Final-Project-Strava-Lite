@@ -6,7 +6,7 @@ https://github.com/preethidommaraju/CS-515-A-Final-Project-Strava-Lite/
 
 # Author
 Preethi dommaraju
-pdommara@stevens.edu
+preethid0506@gmail.com
 
 ## Bugs & Issues
 - Ran into a 404 error when a user didn’t exist; overcame this by checking if user ID was in data store before processing requests.
